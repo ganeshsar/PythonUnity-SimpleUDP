@@ -1,2 +1,2 @@
 # PythonUnity-SimpleUDP
-Simple communication between Python and C# via cross-platform UDP sockets.
+Simple cross-platform communication between Python and C# via UDP sockets.
